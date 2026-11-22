@@ -1,0 +1,26 @@
+Agent_Name,URL,Category
+Perplexity AI,https://www.perplexity.ai,Search & Research
+Hugging Face Assistant,https://huggingface.co/chat,NLP & Open Models
+Streamlit Generative Agent,https://streamlit.io/generative-ai,Data & Analytics
+Vercel AI SDK Playground,https://sdk.vercel.ai,Developer Tools
+LangChain Docs Agent,https://python.langchain.com,Knowledge Base
+FastAPI Inference Edge,https://fastapi.tiangolo.com,Backend API
+Supabase Vector Agent,https://supabase.com/ai,Database & Storage
+Render Microservice Node,https://render.com,Cloud Infrastructure
+OpenAI Platform Agent,https://platform.openai.com,Foundation Models
+Anthropic Claude Interface,https://claude.ai,Autonomous Assistant
+Groq Ultra-Fast Inference,https://groq.com,LPU Edge Accelerator
+Cohere Enterprise Agent,https://cohere.com,Enterprise NLP
+Mistral AI Le Chat,https://chat.mistral.ai,European LLM
+Phind Developer Agent,https://www.phind.com,Code Search
+Pinecone Vector Assistant,https://www.pinecone.io,Vector DB
+Weaviate AI Graph,https://weaviate.io,Hybrid Search
+Replicate Cloud Runner,https://replicate.com,Model Hosting
+Modal Serverless Compute,https://modal.com,Distributed Compute
+Together AI Hub,https://www.together.ai,Open Source Models
+Anyscale Ray Cluster,https://www.anyscale.com,Distributed Agents
+Codium AI DevAgent,https://www.codium.ai,Code Integrity
+Runway ML Video Agent,https://runwayml.com,Multimodal AI
+ElevenLabs Voice Engine,https://elevenlabs.io,Voice Synthesis
+LlamaIndex Query Engine,https://www.llamaindex.ai,RAG Framework
+Deepset Haystack Agent,https://haystack.deepset.ai,Semantic Search

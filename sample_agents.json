@@ -1,0 +1,62 @@
+[
+  {
+    "Agent_Name": "Perplexity AI",
+    "URL": "https://www.perplexity.ai",
+    "Category": "Search & Research"
+  },
+  {
+    "Agent_Name": "Hugging Face Assistant",
+    "URL": "https://huggingface.co/chat",
+    "Category": "NLP & Open Models"
+  },
+  {
+    "Agent_Name": "Streamlit Generative Agent",
+    "URL": "https://streamlit.io/generative-ai",
+    "Category": "Data & Analytics"
+  },
+  {
+    "Agent_Name": "Vercel AI SDK Playground",
+    "URL": "https://sdk.vercel.ai",
+    "Category": "Developer Tools"
+  },
+  {
+    "Agent_Name": "LangChain Docs Agent",
+    "URL": "https://python.langchain.com",
+    "Category": "Knowledge Base"
+  },
+  {
+    "Agent_Name": "FastAPI Inference Edge",
+    "URL": "https://fastapi.tiangolo.com",
+    "Category": "Backend API"
+  },
+  {
+    "Agent_Name": "Supabase Vector Agent",
+    "URL": "https://supabase.com/ai",
+    "Category": "Database & Storage"
+  },
+  {
+    "Agent_Name": "Render Microservice Node",
+    "URL": "https://render.com",
+    "Category": "Cloud Infrastructure"
+  },
+  {
+    "Agent_Name": "OpenAI Platform Agent",
+    "URL": "https://platform.openai.com",
+    "Category": "Foundation Models"
+  },
+  {
+    "Agent_Name": "Anthropic Claude Interface",
+    "URL": "https://claude.ai",
+    "Category": "Autonomous Assistant"
+  },
+  {
+    "Agent_Name": "Groq Ultra-Fast Inference",
+    "URL": "https://groq.com",
+    "Category": "LPU Edge Accelerator"
+  },
+  {
+    "Agent_Name": "Pinecone Vector Assistant",
+    "URL": "https://www.pinecone.io",
+    "Category": "Vector DB"
+  }
+]
